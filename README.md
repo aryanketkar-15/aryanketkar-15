@@ -1,6 +1,6 @@
 <p align="center">
 
-![Aryan Ketkar - GitHub Profile Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=210&section=header&text=Hi%2C%20I'm%20Aryan%20Ketkar%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Third-Year%20Computer%20Engineering%20Student%20%7C%20AI%2FML%20%7C%20Cybersecurity%20%7C%20Backend%20%26%20Systems&descAlignY=55&descSize=16)
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,25&amp;height=210&amp;section=header&amp;text=Hi%2C%20I%27m%20Aryan%20Ketkar&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Third-Year%20Computer%20Engineering%20Student%20%7C%20AI%2FML%20%7C%20Cybersecurity%20%7C%20Backend%20and%20Systems&amp;descAlignY=55&amp;descSize=16" width="100%" />
 
 </p>
 
