@@ -170,23 +170,29 @@ Published technical research — available on ResearchGate.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="./profile/stats.svg" width="48%" />
-  <img src="./profile/top-langs.svg" width="38%" />
+  <img
+    src="https://streak-stats.demolab.com/?user=aryanketkar-15&amp;theme=radical&amp;hide_border=true"
+    alt="GitHub Streak"
+    width="58%"
+  />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aryanketkar-15&theme=radical&hide_border=true" width="58%"/>
-</p>
-
-<br>
 
 ## 🐍 Contribution Activity
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryanketkar-15/aryanketkar-15/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryanketkar-15/aryanketkar-15/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/aryanketkar-15/aryanketkar-15/output/github-contribution-grid-snake.svg" width="100%">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/aryanketkar-15/aryanketkar-15/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/aryanketkar-15/aryanketkar-15/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/aryanketkar-15/aryanketkar-15/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
   </picture>
 </p>
 
