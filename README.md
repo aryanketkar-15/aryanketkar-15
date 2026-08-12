@@ -153,17 +153,6 @@ key_achievements:
 <td align="center">🎖️<br><b>Top 45</b><br>SIH 2025 Internal Grand<br>VIT Pune, 900+ teams</td>
 </tr>
 </table>
-
-<p align="center"><sub>📄 Published technical research — see Research below</sub></p>
-
-<br>
-
-## 🧩 Problem Solving
-
-<p align="center">
-  <a href="https://leetcode.com/u/aryanketkar02/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-</p>
-
 <br>
 
 ## 📚 Research
@@ -216,6 +205,7 @@ AI/ML • Cybersecurity • Backend Systems • Open-Source • Hackathons • T
   <a href="https://github.com/aryanketkar-15"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.researchgate.net/profile/Aryan-Ketkar"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
   <a href="mailto:aryanketkar02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/aryanketkar02/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
 </p>
 
