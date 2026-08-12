@@ -170,8 +170,8 @@ Published technical research — available on ResearchGate.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanketkar-15&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanketkar-15&layout=compact&theme=radical&hide_border=true" width="38%"/>
+  <img src="./profile/stats.svg" width="48%" />
+  <img src="./profile/top-langs.svg" width="38%" />
 </p>
 
 <p align="center">
