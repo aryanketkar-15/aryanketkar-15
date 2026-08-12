@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=210&section=header&text=Hi,%20I'm%20[YOUR_NAME]%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Third-Year%20Computer%20Engineering%20Student%20%7C%20AI%2FML%20•%20Cybersecurity%20•%20Backend%20%26%20Systems&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Hi%2C%20I%27m%20Aryan%20Ketkar%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Third-Year%20Computer%20Engineering%20Student%20%7C%20AI%2FML%20%7C%20Cybersecurity%20%7C%20Backend%20%26%20Systems&descAlignY=55&descSize=16" width="100%"/>
 
 </div>
 
@@ -12,11 +12,11 @@ Drawn to difficult technical problems, and actively developing depth through hac
 <br>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="Ywww.linkedin.com/in/aryan-ketkar-43583b329"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/aryanketkar-15"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:aryanketkar02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
-  <a href="YOUR_RESEARCHGATE_URL"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
+  <a href="https://www.researchgate.net/profile/Aryan-Ketkar"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
 </p>
 
 <br>
@@ -24,7 +24,7 @@ Drawn to difficult technical problems, and actively developing depth through hac
 ## 👨‍💻 About Me
 
 ```yaml
-name: "[YOUR_NAME]"
+name: "Aryan Ketkar"
 education: "B.Tech in Computer Engineering @ Vishwakarma Institute of Technology, Pune"
 year: "3rd Year"
 role: "Computer Engineering Student"
@@ -47,7 +47,7 @@ learning:
   - System Design
   - Cloud-Native Infrastructure (Kubernetes, Helm, Falco)
 
-career_goal: "[ADD YOUR CAREER GOAL]"
+career_goal: "To Be Successful"
 
 key_achievements:
   - "4th Place — Cybersecurity Domain, Ignition Hackverse 2026"
@@ -161,9 +161,7 @@ key_achievements:
 ## 🧩 Problem Solving
 
 <p align="center">
-  <a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="YOUR_CODECHEF_URL"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <a href="YOUR_GFG_URL"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/aryanketkar02/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
 <br>
@@ -175,7 +173,7 @@ Published technical research — available on ResearchGate.
 </p>
 
 <p align="center">
-  <a href="YOUR_RESEARCHGATE_URL"><img src="https://img.shields.io/badge/View_on_ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
+  <a href="https://www.researchgate.net/profile/Aryan-Ketkar"><img src="https://img.shields.io/badge/View_on_ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
 </p>
 
 <br>
@@ -183,8 +181,8 @@ Published technical research — available on ResearchGate.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" width="38%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanketkar-15&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanketkar-15&layout=compact&theme=radical&hide_border=true" width="38%"/>
 </p>
 
 <p align="center">
@@ -196,7 +194,7 @@ Published technical research — available on ResearchGate.
 ## 🐍 Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/aryanketkar-15/aryanketkar-15/output/github-contribution-grid-snake.svg" width="100%"/>
 </p>
 
 <br>
@@ -214,10 +212,10 @@ AI/ML • Cybersecurity • Backend Systems • Open-Source • Hackathons • T
 ### Let's connect and exchange ideas.
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="YOUR_RESEARCHGATE_URL"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aryan-ketkar-43583b329/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/aryanketkar-15"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.researchgate.net/profile/Aryan-Ketkar"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
+  <a href="mailto:aryanketkar02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
 </p>
 
@@ -226,7 +224,7 @@ AI/ML • Cybersecurity • Backend Systems • Open-Source • Hackathons • T
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blueviolet" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=aryanketkar-15&style=flat-square&color=blueviolet" alt="Profile views"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=120&section=footer&text=Thanks%20for%20visiting%20my%20profile!%20⭐&fontSize=14&fontColor=ffffff&fontAlignY=75" width="100%"/>
