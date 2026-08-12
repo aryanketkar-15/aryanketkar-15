@@ -175,7 +175,7 @@ Published technical research — available on ResearchGate.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" width="58%"/>
+  <img src="https://streak-stats.demolab.com/?user=aryanketkar-15&theme=radical&hide_border=true" width="58%"/>
 </p>
 
 <br>
