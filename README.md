@@ -15,7 +15,7 @@ Drawn to difficult technical problems, and actively developing depth through hac
   <a href="Ywww.linkedin.com/in/aryan-ketkar-43583b329"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/aryanketkar-15"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:aryanketkar02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1NJSrPm-caN-A8Nw95rK8XVcfiKXndvx9/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
   <a href="https://www.researchgate.net/profile/Aryan-Ketkar"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
 </p>
 
@@ -216,7 +216,7 @@ AI/ML • Cybersecurity • Backend Systems • Open-Source • Hackathons • T
   <a href="https://www.researchgate.net/profile/Aryan-Ketkar"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
   <a href="mailto:aryanketkar02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://leetcode.com/u/aryanketkar02/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1NJSrPm-caN-A8Nw95rK8XVcfiKXndvx9/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
 </p>
 
 </div>
